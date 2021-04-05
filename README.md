@@ -1,6 +1,6 @@
 # SEB_dg
 
-Test plan and automated test scripts for seb Calculator of leasing:
+Test plan and automated test scripts for SEB Calculator of leasing:
 https://www.seb.lt/skaiciuokles/lizingo-skaiciuokle   (Lit)
 https://www.seb.lt/eng/private/calculator-leasing      (En).
 
