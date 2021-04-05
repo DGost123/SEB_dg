@@ -9,7 +9,7 @@ To run Test suite:
 2. Right-click the mouse and select "Open with";
 3. Selelct "Java(TM)Platform SE binary";
 
-Note: The last test case in the suite is semi-automatic, i. e. payment shedule printing should be performed manually (or cancelled manually presseing "Cancel" button). 
+Note: The last test case in the suite is semi-automatic, i. e. testing of the payment shedule printing should be performed manually (or cancelled manually presseing "Cancel" button). 
 
 Test Suite consists of 3 test cases:
 1. Validation of data entered (some test cases for the validation of values entered in the calculator’s fields (for negative and positive testing)) ;
